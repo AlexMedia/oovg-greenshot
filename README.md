@@ -5,9 +5,9 @@ A plugin to upload screenshots created by the Greenshot screenshotting tool to i
 [![Build status](https://ci.appveyor.com/api/projects/status/6mmi58hhw2db6ti8?svg=true)](https://ci.appveyor.com/project/AlexvanHerwijnen/oovg-greenshot)
 
 ## How to install
-1. Head over to [the Releases page](https://github.com/AlexMedia/oovg-greenshot)
+1. Head over to [the Releases page](https://github.com/AlexMedia/oovg-greenshot/releases)
 2. Download the latest version of the 'AlexMedia.GreenshotPlugins.Oovg.gsp' file
-3. Save this file into <Greenshot folder>\Plugins
+3. Save this file into [Greenshot folder]\Plugins
 4. (Re)start Greenshot
 
 ## How to use

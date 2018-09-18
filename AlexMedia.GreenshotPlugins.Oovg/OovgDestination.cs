@@ -54,7 +54,7 @@ namespace AlexMedia.GreenshotPlugins.Oovg
             {
                 _log.Debug("Exporting file to oo.vg");
 
-                var uploadUrl = "http://oo.vg/a/upload";
+                var uploadUrl = "https://oo.vg/a/upload";
 
                 var config = IniConfig.GetIniSection<OovgConfiguration>();
 
